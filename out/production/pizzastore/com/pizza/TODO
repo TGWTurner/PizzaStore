@@ -1,0 +1,5 @@
+ - Take pizza orders by toppings?
+  - Topping object and the customer adds toppings to it
+ - To add more pizzas
+  - add a recipe to the Recipes object
+  - add its name in the recipes initializer (better way to do this?)
